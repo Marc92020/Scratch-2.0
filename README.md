@@ -1,2 +1,2 @@
-# Scratch-2.0
-amogus
+# Scratch 2.0
+yes
