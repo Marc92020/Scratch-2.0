@@ -1,2 +1,2 @@
-# Scratch 2.0
-yes
+# work in progress
+i am currently testing things with the site
